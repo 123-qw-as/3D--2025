@@ -1,0 +1,8 @@
+{
+  "name": "HoloTree Experience",
+  "description": "A 3D interactive particle Christmas tree with hand tracking and audio visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
